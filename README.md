@@ -22,5 +22,5 @@ Visualization used:
   
 <img width="698" height="385" alt="image" src="https://github.com/user-attachments/assets/5c93162e-bf10-43e0-8646-c5bb29c4c94e" />
 
-Note: Hoven over buttons to buttons and Line chart to know more details.
+Note: Hover over buttons and Line chart to explore the data.
 
