@@ -2,6 +2,7 @@
 A Dashboard which showcases the production and quality of an organization. The Dashboard is also capable of displaying individual performance.
 
 Dax Formulae used:
+
   1.Rankx
   2.TopN
   3.Date_format
@@ -9,6 +10,7 @@ Dax Formulae used:
   5.Average
   
 Visualization used:
+
   1.KPI Card
   2.Synced Slicers
   3.Page Navigations
